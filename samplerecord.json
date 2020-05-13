@@ -1,0 +1,82 @@
+{
+  "category": [
+    "Men's Clothing"
+  ],
+  "currency": "EUR",
+  "customer_first_name": "George",
+  "customer_full_name": "George Underwood",
+  "customer_gender": "MALE",
+  "customer_id": 32,
+  "customer_last_name": "Underwood",
+  "customer_phone": "",
+  "day_of_week": "Wednesday",
+  "day_of_week_i": 2,
+  "email": "george@underwood-family.zzz",
+  "manufacturer": [
+    "Elitelligence"
+  ],
+  "order_date": "2020-05-13T01:03:22+00:00",
+  "order_id": 568019,
+  "products": [
+    {
+      "base_price": 28.99,
+      "discount_percentage": 0,
+      "quantity": 1,
+      "manufacturer": "Elitelligence",
+      "tax_amount": 0,
+      "product_id": 17179,
+      "category": "Men's Clothing",
+      "sku": "ZO0530805308",
+      "taxless_price": 28.99,
+      "unit_discount_amount": 0,
+      "min_price": 15.07,
+      "_id": "sold_product_568019_17179",
+      "discount_amount": 0,
+      "created_on": "2016-12-14T01:03:22+00:00",
+      "product_name": "Chinos - black",
+      "price": 28.99,
+      "taxful_price": 28.99,
+      "base_unit_price": 28.99
+    },
+    {
+      "base_price": 11.99,
+      "discount_percentage": 0,
+      "quantity": 1,
+      "manufacturer": "Elitelligence",
+      "tax_amount": 0,
+      "product_id": 20306,
+      "category": "Men's Clothing",
+      "sku": "ZO0563905639",
+      "taxless_price": 11.99,
+      "unit_discount_amount": 0,
+      "min_price": 5.52,
+      "_id": "sold_product_568019_20306",
+      "discount_amount": 0,
+      "created_on": "2016-12-14T01:03:22+00:00",
+      "product_name": "Long sleeved top - mottled dark grey",
+      "price": 11.99,
+      "taxful_price": 11.99,
+      "base_unit_price": 11.99
+    }
+  ],
+  "sku": [
+    "ZO0530805308",
+    "ZO0563905639"
+  ],
+  "taxful_total_price": 40.98,
+  "taxless_total_price": 40.98,
+  "total_quantity": 2,
+  "total_unique_products": 2,
+  "type": "order",
+  "user": "george",
+  "geoip": {
+    "country_iso_code": "GB",
+    "location": {
+      "lon": -1.9,
+      "lat": 52.5
+    },
+    "region_name": "Birmingham",
+    "continent_name": "Europe",
+    "city_name": "Birmingham"
+  }
+}
